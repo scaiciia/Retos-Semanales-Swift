@@ -21,8 +21,6 @@
 
 import Foundation
 
-//let rango:[Int] = [1...100]
-
 for i in 1...100 {
     var aux:String = ""
     if i.isMultiple(of: 3) {
